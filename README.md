@@ -1,5 +1,5 @@
 ## LISTA COM O LINK DOS PORTFÓLIOS DOS APIs:
-[API 1° SEMESTRE - **DANZO - Mapeador de Criminalidade ao Redor da FATEC**](https://github.com/ZVIEWIL/portifolio1) 
+[API 1° SEMESTRE - **DANZO - Mapa de Criminalidade ao Redor da FATEC**](https://github.com/ZVIEWIL/portifolio1) 
 
 [API 2° SEMESTRE - **GANTT CHART**](https://github.com/ZVIEWIL/portifolio2)
 
@@ -8,14 +8,14 @@
 # API do 3° SEMESTRE - ***FATEC & SPC BRASIL - CADASTRO POSITIVO***
 
 ### **RESUMO DO PROJETO**
-No Terceiro API a Fatec trouxe o cliente SPC Brasil que nos desafiou em criar alguma aplicação que conseguisse agregar valor aos dados que eles possuem em sua base e fidelizar os usuários de maneira que eles utilizassem mais a plataforma do CADASTRO POSITIVO, que é como um histórico financeiro, mostrando como o usuário se comporta em relação a pagamentos de faturas, emprestimos, consórcios, financiamentos etc. 
+No Terceiro API a Fatec trouxe o cliente SPC Brasil que nos desafiou em criar alguma aplicação que conseguisse agregar valor aos dados que eles possuem em sua base e fidelizar os usuários de maneira que eles utilizassem mais a plataforma do CADASTRO POSITIVO, que é como um histórico financeiro, mostrando como o usuário se comporta em relação a pagamentos de faturas, empréstimos, consórcios, financiamentos etc. 
 
 Com base nos requisitos passados pelo cliente, desenvolvemos uma aplicação na qual:
 - O Usuário se cadastra e realiza login(e-mail + senha);
 - O Usuário consegue visualizar seu SCORE, histograma do SCORE, número de pendências financeiras e quantidade de vezes que o nome foi consultado;
 - O Usuário consegue visualizar lista com seus histórico de pagamentos;
 - O Usuário é fidelizado por gamificação, quanto mais ele permite acesso a seus dados na plataforma (pontos que podem ser acumulados e trocados); 
-- O Usuário desbancarizado pode conseguir crédito (ao realizar seu cadastro e cadastrar suas transações em pequenos comércios);
+- O Usuário sem cadastro em bancos pode conseguir crédito (ao realizar seu cadastro e cadastrar suas transações realizadas em pequenos comércios);
 - O Usuário configura as Permissões de Controle de Acesso aos seus dados (LGPD).
 
 Tela de cadastro:
@@ -38,7 +38,7 @@ Pontos e Trocas:
 
 ![Screenshot_5](https://user-images.githubusercontent.com/54503903/142960233-605311dc-3832-4417-90e9-1aa752b31fd3.png)
 
-Caderneta dos desbancarizados:
+Caderneta dos usuários sem conta bancária:
 
 ![Screenshot_6](https://user-images.githubusercontent.com/54503903/142960317-9ca5dd97-a4c3-4d7f-9b0a-b784952822d1.png)
 
@@ -54,7 +54,7 @@ Continuamos utilizando para desenvolver o back end JAVA, como já tinhamos uma c
 SpringBoot: O Spring Boot é um framework Java open source que tem como objetivo facilitar esse processo em aplicações Java. Consequentemente, ele traz mais agilidade para o processo de desenvolvimento, uma vez que devs conseguem reduzir o tempo gasto com as configurações iniciais. Usamos por Indicação de uma nova colega que entrou no grupo.
 
 #### **TypeScript**
-É uma linguagem de programação de código aberto desenvolvida pela Microsoft. É um superconjunto sintático estrito de JavaScript e adiciona tipagem estática opcional à linguagem. Utilizamos para desenvolver o front end.
+É uma linguagem de programação de código aberto desenvolvida pela Microsoft. É um super conjunto sintático estrito de JavaScript e adiciona tipagem estática opcional à linguagem. Utilizamos para desenvolver o front end.
 
 #### **Angular**
 É uma plataforma de aplicações web de código-fonte aberto e front-end baseado em TypeScript liderado pela Equipe Angular do Google e por uma comunidade de indivíduos e corporações. Angular é uma reescrita completa do AngularJS, feito pela mesma equipe que o construiu. Utilizamos para realizar as conexões entre os templates e configurar as requisições em JSON entre o front/back end.
@@ -69,14 +69,14 @@ SpringBoot: O Spring Boot é um framework Java open source que tem como objetivo
 Testamos nossas requisições através do Insominia, que é um API Client que facilita aos desenvolvedores criar, compartilhar, testar e documentar APIs. Utilizamos para testar as requisições criadas para nossa API.
 
 #### **VSCode**
-O Visual Studio Code é um editor de código-fonte desenvolvido pela Microsoft para Windows, Linux e macOS. Ele inclui suporte para depuração, controle de versionamento Git incorporado, realce de sintaxe, complementação inteligente de código, snippets e refatoração de código. Utilizei como IDE para trabalhar com o Angular.
+O Visual Studio Code é um editor de código-fonte desenvolvido pela Microsoft para Windows, Linux e macOS. Ele inclui suporte para depuração, controle de versionamento Git incorporado, realce de sintaxe, complementação inteligente de código, snippets e refatoração de código. Utilizei como IDE para trabalhar com o Angular (Front End).
 
 #### **ECLIPSE**
 IDE utilizada para desenvolver aplicações em Java. Utilizei como IDE para desenvolver o back end da aplicação.
 
 ### **CONTRIBUIÇÕES INDIVIDUAIS**
 Esta API ajudei a desenvolver no Back e no Front End. Para realizar as tarefas precisei estudar Angular+SpringBoot+TypeScript.
-Fiz um curso de 20 horas na Udemy que me ajudou a realizar as tarefas a que fui atribuido.
+Fiz um curso de 20 horas na Udemy que me ajudou a realizar as tarefas a que fui atribuído.
 
 Algumas das Tarefas que realizei:
 - Configurei o Authorization Server,  OAuth para utilizar tokens JWT e o Resource Server:
@@ -122,6 +122,4 @@ Aprendi a configurar o framework, e utiliza-lo. Hoje em dia utilizo Node para ro
 Aprimorei a forma de realizar queries DML.
 
 O API do 3° semestre foi o qual eu mais consegui me destacar e mostrar meus conhecimentos.
-
-
 
