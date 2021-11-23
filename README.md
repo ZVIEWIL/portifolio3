@@ -75,10 +75,16 @@ O Visual Studio Code é um editor de código-fonte desenvolvido pela Microsoft p
 IDE utilizada para desenvolver aplicações em Java. Utilizei como IDE para desenvolver o back end da aplicação.
 
 ### **CONTRIBUIÇÕES INDIVIDUAIS**
-Esta foi a única API em que ajudei a desenvolver o Front End. Para realizar as tarefas precisei estudar Angular+SpringBoot+TypeScript.
+Esta API ajudei a desenvolver no Back e no Front End. Para realizar as tarefas precisei estudar Angular+SpringBoot+TypeScript.
 Fiz um curso de 20 horas na Udemy que me ajudou a realizar as tarefas a que fui atribuido.
 
 Algumas das Tarefas que realizei:
+- Configurei o Authorization Server,  OAuth para utilizar tokens JWT e o Resource Server:
+
+![Screenshot_1](https://user-images.githubusercontent.com/54503903/142968453-3bcb9ff7-abb3-4e23-ae39-6601845a2c22.png)
+![Screenshot_2](https://user-images.githubusercontent.com/54503903/142968455-b69e3781-9728-4c1e-9082-f1f3b8578470.png)
+![Screenshot_3](https://user-images.githubusercontent.com/54503903/142968462-a6ae5f8f-8d76-464a-b8f7-deaa35cf2792.png)
+
 - Tratamento de Erros nas telas de Cadastro de clientes e login:
 
 ![Screenshot_10](https://user-images.githubusercontent.com/54503903/142965471-0f56030b-ed0b-463b-afde-c7614d3fa990.png)
@@ -96,9 +102,38 @@ Algumas das Tarefas que realizei:
 - Conexão das Rotas das Telas do Front End:
 ![Screenshot_13](https://user-images.githubusercontent.com/54503903/142966588-935cafc8-c8fe-4658-932f-50ae31a74732.png)
 
+### **APRENDIZADOS EFETIVOS**
+Angular: 
+
 
 
 ########################################################################################################################
+
+### IV - APRENDIZADOS EFETIVOS
+
+Cada projeto integrador é singular, mas é notável que em cada semestre estamos com mais conhecimento e prática nas ferramentas sendo capaz de desenvolver código Backend e Front-End mais rápido, limpo e com boas práticas.
+
+Terminamos esse projeto sendo capazes de gerar uma aplicação Web com Angular um dos frameworks mais utilizados no Brasil, essa vivência é um grande ganho para o mundo profissional. Pude conhecer a linguagem de TypeScript e reforçar meus conhecimentos em  CSS, HTML e demais tipo de estilização.
+
+Não imaginava que era possível e como se testava uma requisição back-end, com o projeto integrador e com uma integrante com mais vivência em programação ela nos apresentou e ensinou como usar o Postman e Insominia que são ferramentas utilizadas em grandes empresas.
+
+Conheci um novo banco de dados Oracle e como usar o Hibernet, não tinha o conhecimento que era possível criar tabelas e banco de dados automaticamente. Uma funcionalidade tão simples e prática que nos poupo tempo para dedicarmos em outras tarefas do projeto. Conseguimos colocar em prática o que estávamos aprendendo na matéria de Banco de Dados. Atribuindo permissões e importando DataSet. Tive a vivência em ver e rodar uma aplicação Java com SpringBoot configurando os arquivos Properties e o POM.xml. Questões de usabilidade que uso até os dias atuais.
+
+![image](https://user-images.githubusercontent.com/61089745/141985879-cebdf425-daba-47b0-bacb-c9b645085e31.png)
+
+
+Aprimorei o conhecimento do repositório GitHub.
+
+Conheci um novo editor, Visual Code, não sabia da existencia até rodar a aplicação front end em Angular.
+
+Esse semestre foi decisório para por em prática todos os conhecimentos adquiridos ao decorrer do curso. Portanto, pude demonstrar essa vivência na área de programação fora da faculdade e conciliar com a minha área administrativa. Me destacando na empresa fazendo consultas no banco de dados, entendendo melhor um requisito do cliente e sua regra de negócio, foi um marco para minha mudança profissional que me fez sair de função de auxiliar administrativo para Analista de Teste/QA.
+
+
+
+
+
+
+
 
 ## II - TECNOLOGIAS ADOTADAS NA SOLUÇÃO
 
