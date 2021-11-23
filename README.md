@@ -124,3 +124,4 @@ Aprimorei a forma de realizar queries DML.
 O API do 3° semestre foi o qual eu mais consegui me destacar e mostrar meus conhecimentos.
 
 
+
