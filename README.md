@@ -75,15 +75,29 @@ O Visual Studio Code é um editor de código-fonte desenvolvido pela Microsoft p
 IDE utilizada para desenvolver aplicações em Java. Utilizei como IDE para desenvolver o back end da aplicação.
 
 ### **CONTRIBUIÇÕES INDIVIDUAIS**
-Trabalhei no Back end e Front end nesse API, aprendi a desenvolver aplicações utilizando SpringBoot + Angular.
+Esta foi a única API em que ajudei a desenvolver o Front End. Para realizar as tarefas precisei estudar Angular+SpringBoot+TypeScript.
+Fiz um curso de 20 horas na Udemy que me ajudou a realizar as tarefas a que fui atribuido.
 
-Fui responsavel pelas seguintes Tarefas:
+Algumas das Tarefas que realizei:
 - Tratamento de Erros nas telas de Cadastro de clientes e login:
+
 ![Screenshot_10](https://user-images.githubusercontent.com/54503903/142965471-0f56030b-ed0b-463b-afde-c7614d3fa990.png)
 ![Screenshot_8](https://user-images.githubusercontent.com/54503903/142964045-bf11ce03-9c85-4d63-acc3-d574d7b95bf9.png)
+
 - Autenticação dos dados a serem compartilhados - Usuário só visualiza os seus próprios dados
-- Rotas de conexão no Front end:
+
+![Screenshot_11](https://user-images.githubusercontent.com/54503903/142965700-b814234d-d54a-4d62-9827-9cbb0445afc9.png)
+
+- Requisição da Lista de Pagamentos realizados por determinado cliente Front ==> Back end:
+
 ![Screenshot_9](https://user-images.githubusercontent.com/54503903/142965152-40c3551f-5dc9-48db-ae69-6470ecc5b991.png)
+![Screenshot_12](https://user-images.githubusercontent.com/54503903/142966341-1593ae7b-41d3-43bb-82ec-f03e5369c1d4.png)
+
+- Conexão das Rotas das Telas do Front End:
+![Screenshot_13](https://user-images.githubusercontent.com/54503903/142966588-935cafc8-c8fe-4658-932f-50ae31a74732.png)
+
+
+
 ########################################################################################################################
 
 ## II - TECNOLOGIAS ADOTADAS NA SOLUÇÃO
