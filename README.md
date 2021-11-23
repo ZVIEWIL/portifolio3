@@ -1,17 +1,36 @@
-# LISTA PORTFÓLIOS
+## LISTA COM O LINK DOS PORTFÓLIOS DOS APIs:
+[API 1° SEMESTRE - **DANZO - Mapeador de Criminalidade ao Redor da FATEC**](https://github.com/ZVIEWIL/portifolio1) 
 
-[PROJECT-SEMESTRE-01-2019.2 - **DANZO - Mapeador de Criminalidade ao Redor da FATEC**](https://github.com/ZVIEWIL/portifolio1) 
+[API 2° SEMESTRE - **GANTT CHART**](https://github.com/ZVIEWIL/portifolio2)
 
-[PROJECT-SEMESTRE-02-2020.1 - **GANTT CHART**](https://github.com/ZVIEWIL/portifolio2) 
+[API 3° SEMESTRE - **CADASTRO POSITIVO**](https://github.com/ZVIEWIL/portifolio3)
 
-[PROJECT-SEMESTRE-03-2020.2 - **CADASTRO POSITIVO**](https://github.com/ZVIEWIL/portifolio3) 
+# API do 3° SEMESTRE - ***FATEC & SPC BRASIL - CADASTRO POSITIVO***
+
+### **RESUMO DO PROJETO**
+No Terceiro API a Fatec trouxe o cliente SPC Brasil que nos desafiou em criar alguma aplicação que conseguisse agregar valor aos dados que eles possuem em sua base e fidelizar os usuários de maneira que eles utilizassem mais a plataforma do CADASTRO POSITIVO, que é como um histórico financeiro, mostrando como o usuário se comporta em relação a pagamentos de faturas, emprestimos, consórcios, financiamentos etc. 
+
+Com base nos requisitos passados pelo cliente, desenvolvemos uma aplicação na qual:
+- O Usuário se cadastra e realiza login(e-mail + senha);
+- O Usuário consegue visualizar seu SCORE, histograma do SCORE, número de pendências financeiras e quantidade de vezes que o nome foi consultado;
+- O Usuário consegue visualizar lista com seus histórico de pagamentos;
+- O Usuário é fidelizado por gamificação (pontos que podem ser acumulados e trocados); 
+- O Usuário desbancarizado pode conseguir crédito (ao realizar seu cadastro e cadastrar suas transações em pequenos comércios);
+- O Usuário configura as Permissões de Controle de Acesso aos seus dados (LGPD).
+
+Usuário se cadastra na aplicação:
+![Screenshot_1](https://user-images.githubusercontent.com/54503903/142959747-270e771e-941c-49de-8834-cd536bfc34ec.png)
+
+Usuário realiza o login:
+![Screenshot_2](https://user-images.githubusercontent.com/54503903/142959881-1d072b6b-88e2-4c92-834f-6d9b5672fd5f.png)
+
+Tela de entrada, mostrando SCORE, Histograma do SCORE, Quantidade de consultas e pendências:
+![Screenshot_3](https://user-images.githubusercontent.com/54503903/142959992-da8774b7-b924-47b4-b5be-7aa84fc06dca.png)
 
 
-# PROJETO INTEGRADOR 2020.2 - FATEC & SPC BRASIL - CADASTRO POSITIVO
+########################################################################################################################
 
-### I - RESUMO DO PROJETO 
 
-Afim de atender às necessidades do cliente SPC Brasil, neste documento visa apresentar a solução tecnológica proposta pela equipe, possibilitando a identificação e classificação dos requisitos, que nortearão o desenvolvimento do projeto. 
 
 ### Descrição:
 
