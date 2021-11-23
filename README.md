@@ -19,24 +19,31 @@ Com base nos requisitos passados pelo cliente, desenvolvemos uma aplicação na 
 - O Usuário configura as Permissões de Controle de Acesso aos seus dados (LGPD).
 
 Tela de cadastro:
+
 ![Screenshot_1](https://user-images.githubusercontent.com/54503903/142959747-270e771e-941c-49de-8834-cd536bfc34ec.png)
 
 Tela de login:
+
 ![Screenshot_2](https://user-images.githubusercontent.com/54503903/142959881-1d072b6b-88e2-4c92-834f-6d9b5672fd5f.png)
 
 Tela de entrada, mostrando SCORE, Histograma do SCORE, Quantidade de consultas e pendências:
+
 ![Screenshot_3](https://user-images.githubusercontent.com/54503903/142959992-da8774b7-b924-47b4-b5be-7aa84fc06dca.png)
 
 Permissão de acesso aos dados:
+
 ![Screenshot_4](https://user-images.githubusercontent.com/54503903/142960184-084fec98-2ade-4530-a647-5f525c8a7c20.png)
 
 Pontos e Trocas:
+
 ![Screenshot_5](https://user-images.githubusercontent.com/54503903/142960233-605311dc-3832-4417-90e9-1aa752b31fd3.png)
 
 Caderneta dos desbancarizados:
+
 ![Screenshot_6](https://user-images.githubusercontent.com/54503903/142960317-9ca5dd97-a4c3-4d7f-9b0a-b784952822d1.png)
 
 Lista do Histórico de Pagamentos:
+
 ![Screenshot_7](https://user-images.githubusercontent.com/54503903/142960438-8fcf3271-2dc9-4216-83e5-f853d29e75b6.png)
 ########################################################################################################################
 
