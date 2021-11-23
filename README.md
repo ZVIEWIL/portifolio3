@@ -45,7 +45,87 @@ Caderneta dos desbancarizados:
 Lista do Histórico de Pagamentos:
 
 ![Screenshot_7](https://user-images.githubusercontent.com/54503903/142960438-8fcf3271-2dc9-4216-83e5-f853d29e75b6.png)
+
+### **TECNOLOGIAS UTILIZADAS**
+
+#### **JAVA**
+Continuamos utilizando para desenvolver o back end JAVA, como já tinhamos uma certa experiência, preferimos mante-la.
+
+SpringBoot: O Spring Boot é um framework Java open source que tem como objetivo facilitar esse processo em aplicações Java. Consequentemente, ele traz mais agilidade para o processo de desenvolvimento, uma vez que devs conseguem reduzir o tempo gasto com as configurações iniciais. Usamos por Indicação de uma nova colega que entrou no grupo.
+
+#### **TypeScript**
+É uma linguagem de programação de código aberto desenvolvida pela Microsoft. É um superconjunto sintático estrito de JavaScript e adiciona tipagem estática opcional à linguagem. Utilizamos para desenvolver o front end.
+
+#### **Angular**
+É uma plataforma de aplicações web de código-fonte aberto e front-end baseado em TypeScript liderado pela Equipe Angular do Google e por uma comunidade de indivíduos e corporações. Angular é uma reescrita completa do AngularJS, feito pela mesma equipe que o construiu. Utilizamos para realizar as conexões entre os templates e configurar as requisições em JSON entre o front/back end.
+
+#### **Node JS**
+É um software de código aberto, multiplataforma, baseado no interpretador V8 do Google e que permite a execução de códigos JavaScript fora de um navegador web. Utilizamos ele para conseguir rodar a aplicação em Angular.
+
+#### **Oracle Database** 
+É um SGBD que surgiu no fim dos anos 70, quando Larry Ellison vislumbrou uma oportunidade que outras companhias não haviam percebido, quando encontrou uma descrição de um protótipo funcional de um banco de dados relacional e descobriu que nenhuma empresa tinha se empenhado em comercializar essa tecnologia.
+
+#### **Insomnia**
+Testamos nossas requisições através do Insominia, que é um API Client que facilita aos desenvolvedores criar, compartilhar, testar e documentar APIs. Utilizamos para testar as requisições criadas para nossa API.
+
+#### **VSCode**
+O Visual Studio Code é um editor de código-fonte desenvolvido pela Microsoft para Windows, Linux e macOS. Ele inclui suporte para depuração, controle de versionamento Git incorporado, realce de sintaxe, complementação inteligente de código, snippets e refatoração de código. Utilizei como IDE para trabalhar com o Angular.
+
+#### **ECLIPSE**
+IDE utilizada para desenvolver aplicações em Java. Utilizei como IDE para desenvolver o back end da aplicação.
+
+### **CONTRIBUIÇÕES INDIVIDUAIS**
+Trabalhei no Back end e Front end nesse API, aprendi a desenvolver aplicações utilizando SpringBoot + Angular.
+
+Fui responsavel pelas seguintes Tarefas:
+- Tratamento de Erros nas telas de Cadastro de clientes e login:
+![Screenshot_10](https://user-images.githubusercontent.com/54503903/142965471-0f56030b-ed0b-463b-afde-c7614d3fa990.png)
+![Screenshot_8](https://user-images.githubusercontent.com/54503903/142964045-bf11ce03-9c85-4d63-acc3-d574d7b95bf9.png)
+- Autenticação dos dados a serem compartilhados - Usuário só visualiza os seus próprios dados
+- Rotas de conexão no Front end:
+![Screenshot_9](https://user-images.githubusercontent.com/54503903/142965152-40c3551f-5dc9-48db-ae69-6470ecc5b991.png)
 ########################################################################################################################
+
+## II - TECNOLOGIAS ADOTADAS NA SOLUÇÃO
+
+Para conciliar o aprendizado com as matérias lecionadas na FATEC, escolhemos manter a linguagem Java para desenvolver o backend e alternamos o Banco de Dados para Oracle.
+
+Desta forma, contamos com a orientação dos Docentes e muita pesquisa em fóruns virtuais especializados para implementar blocos de códigos com propósito específico.
+
+As tecnologias utilizadas foram:
+
+- Linguagem de programação Java: Java é uma linguagem de programação orientada a objetos, permanecemos com a mesma linguagem back-end para aprimoramento dos conhecimentos.
+
+- SpringBoot: É um framework Java open source que tem como objetivo facilitar esse processo em aplicações Java. Consequentemente, ele trouxe mais agilidade para o processo de desenvolvimento, reduzindo o tempo gasto com as configurações iniciais. A ferramenta foi apresentada através de uma integrante do grupo que tinha mais experiência no back-end.
+
+- Angular: Desenvolvemos nosso front-end pelo Angular, que é uma plataforma de aplicações web de código-fonte aberto e front-end baseado em TypeScript.
+
+![MóduloAngular](https://user-images.githubusercontent.com/61089745/141664849-ddac0cb9-7e06-4526-8e5a-562b2aee8463.PNG)
+
+- Linguagem de programação Type Script: TypeScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma. Juntamente com HTML e CSS, o JavaScript é uma das três principais tecnologias da World Wide Web. Usamos o javascript para aprimorar nossa aplicação web com foco nos cálculos, e estilização dos cards e dashboard;
+
+- Linguagem de marcação CSS, HTML: HTML é utilizada na construção de páginas na Web e juntamente aplicamos o CSS para dar estilo a nossa aplicação;
+
+- CSS framework Bootstrap: É um componente de interface para sites e aplicações web, utilizamos para estilização e responsividade da nossa aplicação Web.
+
+- Postman: Testamos nossas requisições através do Postman, que é um API Client que facilita aos desenvolvedores criar, compartilhar, testar e documentar APIs.
+
+- Insomnia: Testamos nossas requisições através do Insominia, que é um API Client que facilita aos desenvolvedores criar, compartilhar, testar e documentar APIs.
+![image](https://user-images.githubusercontent.com/61089745/141985664-81df10dc-fd1d-44d1-b65f-06f8eb0ce5e4.png)
+
+- Data Grip: IDE de banco de dados, ele detecta bugs prováveis no código e sugere as melhores opções para corrigi-los rapidamente.
+
+- Visual Code: O Visual Studio Code é um editor de código-fonte desenvolvido pela Microsoft, utilizamos para rodar nosso front-end.
+
+- Banco de Dados Oracle: O Banco de dados Oracle (Oracle DB) é um sistema de gerenciamento de banco de dados relacional (RDBMS, Relational Database Management System),com ele criamos nosso banco de dados para integração com backend.
+ 
+- Metodologia Scrum;
+
+
+
+
+
+
 
 
 
